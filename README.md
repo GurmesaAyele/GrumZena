@@ -76,8 +76,8 @@ Ethiopia’s current news apps often suffer from:
 | Category | Tools & Frameworks |
 |-----------|-------------------|
 | Frontend | React + Vite + TypeScript + CSS |
-| Backend | Django / Node.js (API & aggregation logic) |
-| Database | PostgreSQL / MongoDB |
+| Backend | Node.js (API & aggregation logic) |
+| Database | MongoDB |
 | AI & APIs | Google Translate API, OpenAI Summarization |
 | Deployment | Vercel / Netlify (frontend), Render / Railway (backend) |
 | Mobile | Progressive Web App (PWA) |
